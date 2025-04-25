@@ -1,0 +1,10 @@
+﻿  Assembling first.asm...
+first.asm(1): error A2008: syntax error : .
+first.asm(2): error A2008: syntax error : .
+first.asm(3): error A2008: syntax error : .
+first.asm(13): error A2070: invalid instruction operands
+first.asm(14): error A2070: invalid instruction operands
+first.asm(15): error A2070: invalid instruction operands
+first.asm(18): error A2008: syntax error : START
+first.asm(18): error A2088: END directive required at end of file
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\first.obj" /W3 /errorReport:prompt  /Tafirst.asm" с кодом "1".

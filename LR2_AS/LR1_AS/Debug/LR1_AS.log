@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (LR1_AS.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Assembling first.asm...
+  Source.cpp
+  LR1_AS.vcxproj -> C:\Users\Asus\Desktop\24 инф\LR1_AS\Debug\LR2_AS.exe
